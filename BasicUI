@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BasicUI : MonoBehaviour
 {
-  // this is a new comment  
+   
 	void OnGUI() {
 		int posX = 10;
 		int posY = 10;
@@ -49,5 +49,7 @@ public class BasicUI : MonoBehaviour
 		}
 	}
 }
+
+
 
 
